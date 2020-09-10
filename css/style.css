@@ -1,0 +1,16 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+#content #row .col h5{
+    text-decoration: underline;
+}
+.container #wrapper{
+    background-color: white;
+    padding: 20px;
+    box-shadow: 4px 6px 5px  black;
+}
+#warning{
+    background-color: red;
+    margin-bottom: 3px;
+    padding: 3px;
+}
